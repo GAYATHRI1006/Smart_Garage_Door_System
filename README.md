@@ -8,7 +8,11 @@ This project is a smart garage door automation and monitoring system built using
 GitHub: [@GAYATHRI1006](https://github.com/GAYATHRI1006)
 
 ## Screenshot
-![Smart Garage Door System Screenshot](https://via.placeholder.com/800x400.png?text=Insert+Project+Screenshot+Here)
+![Smart Garage Door System Screenshot](image1.jpeg)
+
+![Smart Garage Door System Screenshot](image2.jpeg)
+
+![Smart Garage Door System Screenshot](image3.jpeg)
 
 ## Features
 
@@ -33,15 +37,7 @@ GitHub: [@GAYATHRI1006](https://github.com/GAYATHRI1006)
 | LEDs (Red/Green)     | Indicates door status              |
 | Power Supply         | 5V USB or Battery                  |
 
-## ThingSpeak Setup
 
-- **Channel ID**: `2850827`
-- **Write API Key**: `OEA3M9GR3KTIE32H`
-- **Fields**:
-  - Field 1: PIR Motion Sensor (1 = motion, 0 = no motion)
-  - Field 2: Distance from Ultrasonic sensor (in cm)
-  - Field 3: Magnetic Sensor (0 = closed, 1 = open)
-  - Field 4: Door Status (1 = open, 0 = closed)
 
 ## Pin Configuration
 
@@ -63,6 +59,11 @@ GitHub: [@GAYATHRI1006](https://github.com/GAYATHRI1006)
   - 🔴 Red = Door Closed
   - 🟢 Green = Door Open
 - All sensor readings and status updates are sent to ThingSpeak every 15 seconds.
+- - **Fields**:
+  - Field 1: PIR Motion Sensor (1 = motion, 0 = no motion)
+  - Field 2: Distance from Ultrasonic sensor (in cm)
+  - Field 3: Magnetic Sensor (0 = closed, 1 = open)
+  - Field 4: Door Status (1 = open, 0 = closed)
 
 ## How to Use
 
