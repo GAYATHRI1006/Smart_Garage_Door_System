@@ -1,3 +1,6 @@
+# Smart Garage Door Monitoring and Control System
+
+This project is a smart garage door automation and monitoring system built using the NodeMCU ESP8266. It detects motion using a PIR sensor, checks for object presence with an ultrasonic sensor, and monitors door status with a magnetic sensor. The system opens the door automatically when a vehicle is detected and sends real-time data to ThingSpeak for remote monitoring.
 
 ## Developed By
 
