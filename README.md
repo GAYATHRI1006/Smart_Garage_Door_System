@@ -8,7 +8,6 @@ This project is a smart garage door automation and monitoring system built using
 GitHub: [@GAYATHRI1006](https://github.com/GAYATHRI1006)
 
 
-
 ## Screenshot
 ![Smart Garage Door System Screenshot](image1.jpeg)
 
