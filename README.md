@@ -16,7 +16,6 @@ GitHub: [@GAYATHRI1006](https://github.com/GAYATHRI1006)
 
 ## Features
 
-
 -  Motion detection via PIR sensor
 -  Object detection using Ultrasonic sensor
 -  Door status monitoring with magnetic reed switch
