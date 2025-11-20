@@ -4,6 +4,7 @@ This project is a smart garage door automation and monitoring system built using
 
 ## Developed By
 
+
 **Gayathri G**  
 GitHub: [@GAYATHRI1006](https://github.com/GAYATHRI1006)
 
